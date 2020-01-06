@@ -1,0 +1,8 @@
+version=win2k12r2
+localmirror=none
+poweroff=true
+name="Billy's Blog"
+description="This is a self-installing Windows VM. It needs an active internet connect to download a trial edition of Windows and install additional services. Please give it 30 to 60 minutes to setup. When it's done, it'll be displaying a logged in Desktop and be running an HTTP server on port 80.
+
+This VM uses https://github.com/brimstone/windows-ova
+Build date: 2020-01-05"
